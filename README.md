@@ -20,13 +20,13 @@ You need gfortran. Type 'make' to compile the code.
 # Usage
 
 Prepare a file with commands, and run with:
-'''
+```
 ./snaptool file.plt
-'''
+```
 The output will be a set of .gif files.
 
 
-'''
+```
       ---== SNAPTOOL HELP ==---
 
  In-file contains a sequence of commands.
@@ -145,4 +145,4 @@ The output will be a set of .gif files.
  filename
    load ascii file created by RAMSES part2map utility.
 
-'''
+```
