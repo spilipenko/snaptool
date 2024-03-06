@@ -26,7 +26,7 @@ Prepare a file with commands, and run with:
 The output will be a set of .gif files.
 
 
-
+'''
       ---== SNAPTOOL HELP ==---
 
  In-file contains a sequence of commands.
@@ -144,3 +144,5 @@ The output will be a set of .gif files.
  load ramses map
  filename
    load ascii file created by RAMSES part2map utility.
+
+'''
